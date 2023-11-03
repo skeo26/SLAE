@@ -1,0 +1,41 @@
+D:\Visual Projects\SLAE\SLAE\bin\Debug\SLAE.exe.config
+D:\Visual Projects\SLAE\SLAE\bin\Debug\SLAE.exe
+D:\Visual Projects\SLAE\SLAE\bin\Debug\SLAE.pdb
+D:\Visual Projects\SLAE\SLAE\obj\Debug\SLAE.Properties.Resources.resources
+D:\Visual Projects\SLAE\SLAE\obj\Debug\SLAE.csproj.GenerateResource.cache
+D:\Visual Projects\SLAE\SLAE\obj\Debug\SLAE.csproj.CoreCompileInputs.cache
+D:\Visual Projects\SLAE\SLAE\obj\Debug\SLAE.exe
+D:\Visual Projects\SLAE\SLAE\obj\Debug\SLAE.pdb
+D:\Visual Projects\SLAE\SLAE\obj\Debug\SLAE.csprojAssemblyReference.cache
+D:\Visual Projects\SLAE\SLAE\obj\Debug\SLAE.Form1.resources
+C:\Users\Sokol\Desktop\SLAE\SLAE\bin\Debug\SLAE.exe.config
+C:\Users\Sokol\Desktop\SLAE\SLAE\bin\Debug\SLAE.exe
+C:\Users\Sokol\Desktop\SLAE\SLAE\bin\Debug\SLAE.pdb
+C:\Users\Sokol\Desktop\SLAE\SLAE\obj\Debug\SLAE.csprojAssemblyReference.cache
+C:\Users\Sokol\Desktop\SLAE\SLAE\obj\Debug\SLAE.Form1.resources
+C:\Users\Sokol\Desktop\SLAE\SLAE\obj\Debug\SLAE.Properties.Resources.resources
+C:\Users\Sokol\Desktop\SLAE\SLAE\obj\Debug\SLAE.csproj.GenerateResource.cache
+C:\Users\Sokol\Desktop\SLAE\SLAE\obj\Debug\SLAE.exe
+C:\Users\Sokol\Desktop\SLAE\SLAE\obj\Debug\SLAE.pdb
+C:\Users\Sokol\Desktop\SLAE\SLAE\obj\Debug\SLAE.csproj.CoreCompileInputs.cache
+C:\Users\truso\OneDrive\Desktop\метод Гаусса решения СЛАУ\Computational-Methods-labs_3course-4b7d27cf067129ac3d1f69f0acd09528aa9d581c\System_of_linear_equations_solve\SLAE\bin\Debug\SLAE.exe.config
+C:\Users\truso\OneDrive\Desktop\метод Гаусса решения СЛАУ\Computational-Methods-labs_3course-4b7d27cf067129ac3d1f69f0acd09528aa9d581c\System_of_linear_equations_solve\SLAE\bin\Debug\SLAE.exe
+C:\Users\truso\OneDrive\Desktop\метод Гаусса решения СЛАУ\Computational-Methods-labs_3course-4b7d27cf067129ac3d1f69f0acd09528aa9d581c\System_of_linear_equations_solve\SLAE\bin\Debug\SLAE.pdb
+C:\Users\truso\OneDrive\Desktop\метод Гаусса решения СЛАУ\Computational-Methods-labs_3course-4b7d27cf067129ac3d1f69f0acd09528aa9d581c\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.csprojAssemblyReference.cache
+C:\Users\truso\OneDrive\Desktop\метод Гаусса решения СЛАУ\Computational-Methods-labs_3course-4b7d27cf067129ac3d1f69f0acd09528aa9d581c\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.Form1.resources
+C:\Users\truso\OneDrive\Desktop\метод Гаусса решения СЛАУ\Computational-Methods-labs_3course-4b7d27cf067129ac3d1f69f0acd09528aa9d581c\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.Properties.Resources.resources
+C:\Users\truso\OneDrive\Desktop\метод Гаусса решения СЛАУ\Computational-Methods-labs_3course-4b7d27cf067129ac3d1f69f0acd09528aa9d581c\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.csproj.GenerateResource.cache
+C:\Users\truso\OneDrive\Desktop\метод Гаусса решения СЛАУ\Computational-Methods-labs_3course-4b7d27cf067129ac3d1f69f0acd09528aa9d581c\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.csproj.CoreCompileInputs.cache
+C:\Users\truso\OneDrive\Desktop\метод Гаусса решения СЛАУ\Computational-Methods-labs_3course-4b7d27cf067129ac3d1f69f0acd09528aa9d581c\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.exe
+C:\Users\truso\OneDrive\Desktop\метод Гаусса решения СЛАУ\Computational-Methods-labs_3course-4b7d27cf067129ac3d1f69f0acd09528aa9d581c\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.pdb
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\bin\Debug\SLAE.exe.config
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\bin\Debug\SLAE.exe
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\bin\Debug\SLAE.pdb
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.csproj.AssemblyReference.cache
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.csproj.SuggestedBindingRedirects.cache
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.Form1.resources
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.Properties.Resources.resources
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.csproj.GenerateResource.cache
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.csproj.CoreCompileInputs.cache
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.exe
+C:\Users\samua\OneDrive\Рабочий стол\программирование\1.Программа\System_of_linear_equations_solve\SLAE\obj\Debug\SLAE.pdb

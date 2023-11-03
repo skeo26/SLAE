@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e72fd990-d829-4bbd-acc4-4ef07bee5aa1": {
+      "ProjectGuid": "e72fd990-d829-4bbd-acc4-4ef07bee5aa1",
+      "DisplayName": "SLAE",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
